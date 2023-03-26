@@ -1,0 +1,4 @@
+baseURL = 'https://athena.heli0.xyz/'
+languageCode = 'en-us'
+title = 'Hello World'
+theme = "hello-friend"
